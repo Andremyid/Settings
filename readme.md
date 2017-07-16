@@ -1,1 +1,1 @@
-# Settings
+# Andremyid Settings Documentation
